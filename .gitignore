@@ -1,0 +1,13 @@
+__pycache__/
+fix/classes/
+fix/stub_classes/
+fix/lib/
+tools/modeldump/*.class
+tools/modeldump/cp.txt
+tools/modeldump/libs.txt
+tools/modeldump/err.txt
+*.jar
+*.png
+# LOTR-derived model dumps (development reference only, never distributed)
+models/
+tools/modeldump/*.json
